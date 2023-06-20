@@ -1,0 +1,15 @@
+/home/trillion/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise
+/home/trillion/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.deps.json
+/home/trillion/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.runtimeconfig.json
+/home/trillion/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.dll
+/home/trillion/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.pdb
+/home/trillion/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.csproj.AssemblyReference.cache
+/home/trillion/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/trillion/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.AssemblyInfoInputs.cache
+/home/trillion/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.AssemblyInfo.cs
+/home/trillion/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.csproj.CoreCompileInputs.cache
+/home/trillion/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.dll
+/home/trillion/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/refint/OperatorExercise.dll
+/home/trillion/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.pdb
+/home/trillion/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.genruntimeconfig.cache
+/home/trillion/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/ref/OperatorExercise.dll

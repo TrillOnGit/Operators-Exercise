@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nnFYDdiH4kkWhtXXiRxWcZT3y7bnWzdPwxtD7MzUrk5EXvaMdapeCGG9ruEJEYfujrcRI75ym2//Cbk54S3JJQ==",
+  "dgSpecHash": "Ukz+47Pjh38HvoG1tixldzqx5o15HevzB/nglnY5RBIy8wJnGlY0t08bnDJVUpRRdojj/XMvf+McRcuFrTRvDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\OperatorExercise\\OperatorExercise\\OperatorExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/trillion/Repos/Operators-Exercise/OperatorExercise/OperatorExercise.csproj",
+  "expectedPackageFiles": [
+    "/home/trillion/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.18/microsoft.netcore.app.host.linux-x64.6.0.18.nupkg.sha512"
+  ],
   "logs": []
 }
